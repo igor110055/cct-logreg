@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+matplotlib
+Historic-Crypto
+scipy
+openpyxl
+torch
+torchvision
+ccxt
